@@ -1,0 +1,23 @@
+/* Russian */
+module.exports = {
+  edit: "изменить",
+  email: "электронная почта",
+  firstName: "имя",
+  language: "язык",
+  lastName: "фамилия",
+  login: "вход",
+  logout: "выход",
+  name: "имя",
+  newPassword: "новый пароль",
+  options: "параметры",
+  password: "пароль",
+  preview: "просмотр",
+  profile: "профиль",
+  repeatPassword: "повторите пароль",
+  save: "сохранить",
+  settings: "параметры",
+  signIn: "входить",
+  signUp: "зарегистрироваться",
+  submit: "отправить",
+  username: "пользователя",
+}

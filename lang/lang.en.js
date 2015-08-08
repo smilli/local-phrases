@@ -1,0 +1,23 @@
+/* English */
+module.exports = {
+  edit: "edit",
+  email: "email",
+  firstName: "first name",
+  language: "language",
+  lastName: "last name",
+  login: "login",
+  logout: "logout",
+  name: "name",
+  newPassword: "new password",
+  options: "options",
+  password: "password",
+  preview: "preview",
+  profile: "profile",
+  repeatPassword: "repeat password",
+  save: "save",
+  settings: "settings",
+  signIn: "sign in",
+  signUp: "sign up",
+  submit: "submit",
+  username: "username",
+}

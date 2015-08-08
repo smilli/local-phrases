@@ -1,0 +1,23 @@
+/* Hindi */
+module.exports = {
+  edit: "संपादित करें",
+  email: "ईमेल",
+  firstName: "प्रथम नाम",
+  language: "भाषा",
+  lastName: "अंतिम नाम",
+  login: "लॉगिन",
+  logout: "लॉग आउट",
+  name: "नाम",
+  newPassword: "नया पासवर्ड",
+  options: "विकल्प",
+  password: "पासवर्ड",
+  preview: "पूर्वावलोकन",
+  profile: "प्रोफ़ाइल",
+  repeatPassword: "पासवर्ड दोहराएँ",
+  save: "सहेजें",
+  settings: "सेटिंग्स",
+  signIn: "साइन इन करें",
+  signUp: "साइन अप करें",
+  submit: "सबमिट करें",
+  username: "उपयोगकर्ता नाम",
+}

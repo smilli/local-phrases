@@ -1,0 +1,16 @@
+module.exports = {
+  ar: require('./lang/lang.ar.js'),
+  de: require('./lang/lang.de.js'),
+  en: require('./lang/lang.en.js'),
+  es: require('./lang/lang.es.js'),
+  fr: require('./lang/lang.fr.js'),
+  hi: require('./lang/lang.hi.js'),
+  it: require('./lang/lang.it.js'),
+  ja: require('./lang/lang.ja.js'),
+  ko: require('./lang/lang.ko.js'),
+  nl: require('./lang/lang.nl.js'),
+  pt: require('./lang/lang.pt.js'),
+  ru: require('./lang/lang.ru.js'),
+  vi: require('./lang/lang.vi.js'),
+  zh: require('./lang/lang.zh.js'),
+}

@@ -1,0 +1,23 @@
+/* Korean */
+module.exports = {
+  edit: "편집",
+  email: "전자 메일",
+  firstName: "이름",
+  language: "언어",
+  lastName: "성",
+  login: "로그인",
+  logout: "로그아웃",
+  name: "이름",
+  newPassword: "새 암호",
+  options: "옵션",
+  password: "암호",
+  preview: "미리 보기",
+  profile: "프로필",
+  repeatPassword: "암호 반복",
+  save: "저장",
+  settings: "설정",
+  signIn: "로그인",
+  signUp: "등록하다",
+  submit: "제출하다",
+  username: "사용자 이름",
+}

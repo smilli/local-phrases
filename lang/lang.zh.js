@@ -1,0 +1,23 @@
+/* Simplified Chinese */
+module.exports = {
+  edit: "编辑",
+  email: "电子邮件",
+  firstName: "名",
+  language: "语言",
+  lastName: "姓氏",
+  login: "登录",
+  logout: "注销",
+  name: "名称",
+  newPassword: "新密码",
+  options: "选项",
+  password: "密码",
+  preview: "预览",
+  profile: "配置文件",
+  repeatPassword: "确认密码",
+  save: "保存",
+  settings: "设置",
+  signIn: "登录",
+  signUp: "注册",
+  submit: "提交",
+  username: "用户名",
+}

@@ -1,0 +1,23 @@
+/* Arabic */
+module.exports = {
+  edit: "تحرير",
+  email: "عنوان البريد الإلكتروني",
+  firstName: "الاسم الأول",
+  language: "اللغة",
+  lastName: "اسم العائلة",
+  login: "تسجيل الدخول",
+  logout: "تسجيل الخروج",
+  name: "الاسم",
+  newPassword: "كلمة المرور الجديدة",
+  options: "خيارات",
+  password: "كلمة المرور",
+  preview: "معاينة",
+  profile: "ملف التعريف",
+  repeatPassword: "تكرار كلمة المرور",
+  save: "يحفظ",
+  settings: "إعدادات",
+  signIn: "يسجل الدخول",
+  signUp: "يسجل",
+  submit: "إرسال",
+  username: "اسم المستخدم",
+}

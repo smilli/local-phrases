@@ -1,0 +1,23 @@
+/* Japanese */
+module.exports = {
+  edit: "編集",
+  email: "電子メール",
+  firstName: "名",
+  language: "言語",
+  lastName: "姓",
+  login: "ログイン",
+  logout: "ログアウト",
+  name: "名前",
+  newPassword: "新しいパスワード",
+  options: "オプション",
+  password: "パスワード",
+  preview: "プレビュー",
+  profile: "プロファイル",
+  repeatPassword: "パスワードの再入力",
+  save: "保管",
+  settings: "設定",
+  signIn: "サインイン",
+  signUp: "サインアップ",
+  submit: "送信",
+  username: "ユーザー名",
+}

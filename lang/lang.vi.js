@@ -1,0 +1,23 @@
+/* Vietnamese */
+module.exports = {
+  edit: "soạn",
+  email: "email",
+  firstName: "tên",
+  language: "ngôn ngữ",
+  lastName: "họ",
+  login: "đăng nhập",
+  logout: "đăng xuất",
+  name: "tên",
+  newPassword: "mật khẩu mới",
+  options: "tùy chọn",
+  password: "mật khẩu",
+  preview: "xem trước",
+  profile: "hồ sơ",
+  repeatPassword: "nhập lại Mật khẩu",
+  save: "lưu",
+  settings: "thiết đặt",
+  signIn: "đăng nhập",
+  signUp: "đăng ký",
+  submit: "đệ trình",
+  username: "tên người dùng",
+}

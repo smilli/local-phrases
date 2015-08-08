@@ -1,0 +1,22 @@
+{
+  "name": "local-phrases",
+  "version": "1.0.0",
+  "description": "Translations of common web phrases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smilli/local-phrases"
+  },
+  "keywords": [
+    "translation", "i18n"
+  ],
+  "author": "Smitha Milli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smilli/local-phrases/issues"
+  },
+  "homepage": "https://github.com/smilli/local-phrases"
+}
