@@ -19,5 +19,5 @@ module.exports = {
   signIn: "входить",
   signUp: "зарегистрироваться",
   submit: "отправить",
-  username: "пользователя",
+  username: "имя пользователя",
 }
